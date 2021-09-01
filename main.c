@@ -2,7 +2,7 @@
 
 
 int main(){
-    freopen ("entrada.txt","r",stdin);
+    //freopen ("entrada.txt","r",stdin);//esta linea se usa para setear el stdin al debugear en VSCode
     CADYTOKEN c={"",CAD};
     
     printf("Salida \n\n");
